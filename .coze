@@ -1,0 +1,6 @@
+[skill]
+  skill_package = "investment-research-analyst.skill"
+  name = "investment-research-analyst"
+  description = "投研经理工作流；当用户需要行业研究、宏观分析、研报获取、财务分析或撰写投资报告时使用"
+  project_name = "投研技能工具包"
+  project_description = "投研经理完整工作流"
